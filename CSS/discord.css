@@ -1,0 +1,9 @@
+/* Styling used for the Discord feed on Bounties page. */
+#discord {
+  height: 70%;
+  width: 45%;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  background-color: #111; /* Black */
+}
